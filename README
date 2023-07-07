@@ -1,3 +1,4 @@
-Shows the database design for real estate data. It will contain data
-going back to ~2016-present for country, state, metro cities, counties,
-and zip code.
+Shows the database design for real estate data. It contains monthly real 
+estate data from ~2016-present for country, state, metro cities, counties,
+and zip code. It is monthly data, median of various attributes for
+the specific location is presented.
